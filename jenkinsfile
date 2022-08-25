@@ -1,4 +1,4 @@
-#first pipeline
+//first pipeline
 pipeline { 
     agent any
     tools {
